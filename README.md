@@ -29,5 +29,4 @@
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/ton-utilisateur/real-estate-marketplace.git
-   cd real-estate-marketplace
+   git clone https://github.com/NourheneKadri/Real-Estate-marketplace.git
